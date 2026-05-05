@@ -2,8 +2,12 @@
 Classify pokemon using CNN
 
 Used transfer learning by selecting backbone model ResNet18 and ResNet34.
+
 Dataset: https://www.kaggle.com/datasets/lantian773030/pokemonclassification/data
+Download and extract the folder to the file
+
 Checked the impact of pretrained weights and fine-tuning range on model performance.
+
 5 epochs trained and evaluated
 
 ### 5 experiments
